@@ -70,6 +70,7 @@ section{
 
 .list-group-item:hover .delete_btn{
     visibility: visible;
+    background-color: #BBD5ED;
 }
 
 .checked .check_btn{
